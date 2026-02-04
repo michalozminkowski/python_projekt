@@ -2,12 +2,10 @@
 
 This project simulates air pollution dispersion in the Jeżyce district of Poznań. Instead of using random traffic generation, the simulation relies on real-world congestion data collected from the TomTom API and actual street geometry from OpenStreetMap.
 
----
 
 <p align="center">
   <img src="0204-2.gif" alt="Smog Simulation Animation" width="700">
 </p>
----
 
 ## Project Overview
 
@@ -46,7 +44,7 @@ The dispersion model is based on **Cellular Automata** on a 2D grid. The state o
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/michalozminkowski/Smog-Dispersion-Simulation.git](https://github.com/michalozminkowski/Smog-Dispersion-Simulation.git)
+    git clone https://github.com/michalozminkowski/Smog-Dispersion-Simulation.git
     cd Smog-Dispersion-Simulation
     ```
 
